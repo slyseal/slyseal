@@ -1,5 +1,5 @@
-Author: orakili (slyseal.orakili@gmail.com)
-URLs: http://orakili.org, http://code.google.com/p/slyseal
+Author: orakili (slyseal@orakili.net)
+URLs: http://orakili.net, http://code.google.com/p/slyseal
 Thanks to HaxeVideo, Rubyizumi, LibRtmp and some others...
 
 *****Usage*****
